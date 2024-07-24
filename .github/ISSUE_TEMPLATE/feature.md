@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-What it Is?
+What?
 ---
 
 Scope
@@ -45,5 +45,7 @@ Resources
 ---
 
 Logic - 
+
 Design - 
+
 Tech -

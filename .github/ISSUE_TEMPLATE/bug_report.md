@@ -1,43 +1,43 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
+about: Report a bug in the app
+title: "[BUG] description"
 labels: bug
 assignees: ''
 
 ---
 
-**Is there an existing ticket for this issue?**
+## Current behavior
 
-Yes
+When I go to my workspace settings and try to import issues from Github, it locks on the "processing" step. It's been 6 hours now since I started the import but it is still processing.
 
-**Ticket URL:** 
+## Expected behavior
 
+Should import issues without waiting on "processing" step.
 
-**Current behavior**
+## Is there an existing ticket?
 
-When i go to my workspace settings and try to import issues from Github, it locks on the "processing" step, it's been 6 hours now since i started the import but it is still processing
+Yes - [ticket link](https://fundwave.freshdesk.com/a/tickets/)
 
-**Steps to reproduce**
+## Steps to reproduce
 
-Create a project
+1. Create a project
+2. Go to the workspace settings
+3. Link a Github organization on the Integration section
+4. Then on the import section, import the issues from a repository to the project
 
-Go to the workspace settings
+## Context
 
-Link a Github organisation on the Integration section
+**Regression?** It was working until 1.15.4 / 20th July, 2024
 
-Then on the import section, import the issues from a repository to the plane project
+**Environment:** Production
 
-**Suggested Solutions**
+**Browser:** Google Chrome
 
-Maybe we can reference to the other Database
+## Evidence
 
-**Environment**
+Jam Link
 
-Production
+## Suggested Solutions
 
-**Browser**
-
-Google Chrome
-
-**Jam Link**
+1. Show processing steps/logs
