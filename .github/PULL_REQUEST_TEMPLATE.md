@@ -1,11 +1,11 @@
-## Description
+#### Description
 
 Fixes import issues bug
 
-#### Fixes
+#### Resolutions
 
-- getfundwave/discussions#<number>
-- getfundwave/discussions/issues/<number>
+- fixes getfundwave/discussions#<number>
+- resolves getfundwave/discussions/issues/<number>
 
 #### Depends on
 
