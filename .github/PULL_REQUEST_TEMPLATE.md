@@ -12,7 +12,8 @@ Fixes import issues bug
 - getfundwave/<repo>#<number>
 - getfundwave/<repo>/pull/<number>
 
-### Deployment
+#### Deployment
 
+<!-- Current pipelines will suffice -->
 - [ ] Test cases
 - [ ] Update Github environment for env1, env2
