@@ -1,18 +1,19 @@
-
-## Description
+#### Description
 
 Fixes import issues bug
 
-### Issue
+#### Resolutions
 
-fixes getfundwave/discussions#1
+- fixes getfundwave/discussions#<number>
+- resolves getfundwave/discussions/issues/<number>
 
-## Dependent PRs
+#### Depends on
 
-- PR#1
-- PR#Data-Migration#1
+- getfundwave/<repo>#<number>
+- getfundwave/<repo>/pull/<number>
 
-## Deployment
+#### Deployment
 
+<!-- Current pipelines will suffice -->
 - [ ] Test cases
 - [ ] Update Github environment for env1, env2
